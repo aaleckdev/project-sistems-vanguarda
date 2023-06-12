@@ -111,6 +111,11 @@ a:hover {
     margin: 5px;
 }
 
+.borda {
+    border-bottom: 3px solid #fff;
+    width: 20px;
+    margin-bottom: 10px;
+}
 
 
 @media (min-width: 768px) {
