@@ -66,6 +66,10 @@ td,th{
     border: 1px solid var(--bg-color3);
 }
 
+tbody tr:hover {
+    background-color: #aaa;
+}
+
 
 footer {
     display: flex;
